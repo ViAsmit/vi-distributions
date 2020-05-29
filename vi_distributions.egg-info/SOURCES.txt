@@ -1,0 +1,10 @@
+setup.py
+vi-distributions/Binomialdistribution.py
+vi-distributions/Gaussiandistribution.py
+vi-distributions/Generaldistribution.py
+vi-distributions/__init__.py
+vi_distributions.egg-info/PKG-INFO
+vi_distributions.egg-info/SOURCES.txt
+vi_distributions.egg-info/dependency_links.txt
+vi_distributions.egg-info/not-zip-safe
+vi_distributions.egg-info/top_level.txt
